@@ -8,12 +8,12 @@ public class blockStackFrame {
         // main() 메서드의 스택 프레임 안에 if 문의 블록 스택 프레임이 중첩되어 생성
         if (i == 10) {
             int m = k + 5;
-            k = m;
+                k = m;
         // 위 if문을 닫는 중괄호를 만나면 if 블록 스택 프레임은 스택 영역에서 사라진다.
         // 이 때 if 블록 스택 프레임 안에 상주하던 변수의 저장 공간도 함께 사라진다.
         } else {
             int p = k + 10;
-            k = p;
+                k = p;
         }
 
         // k = m + p;
