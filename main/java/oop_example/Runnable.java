@@ -1,7 +1,7 @@
 package oop_example;
 
 // Run
-interface AbleToRun {
+interface Runnable {
 
     // public static final 은 생략되어 있다.
     // public static final int speed = 3;

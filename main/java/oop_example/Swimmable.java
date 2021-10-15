@@ -1,5 +1,5 @@
 package oop_example;
 
-interface AbleToSwim {
+interface Swimmable {
     public abstract void Swim();
 }
