@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance01;
 
 public class Sparrow extends Birds {
     public Sparrow() {

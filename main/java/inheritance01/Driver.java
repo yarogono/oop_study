@@ -3,7 +3,7 @@
 // 클래스명은 분류스럽게
 // 객체 참조 변수명은 유일무이한 사물처럼 작명해야 한다.
 
-package inheritance;
+package inheritance01;
 
 public class Driver {
     public static void main(String[] args) {
