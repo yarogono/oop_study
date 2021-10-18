@@ -1,4 +1,4 @@
-public class localVariable {
+public class LocalVariable {
     // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 55 ~ 58p
     public static void main(String[] args) {
         // 지역 변수 : 스택 영역에서 일생을 보낸다. 그서도 스택 프레임 안에서 일생을 보내게 된다.

@@ -10,12 +10,12 @@
 */
 
 // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 69 ~ 74p
-public class multiThread extends Thread {
+public class MultiThread extends Thread {
     static int share;
 
     public static void main(String[] args) {
-        multiThread t1 = new multiThread();
-        multiThread t2 = new multiThread();
+        MultiThread t1 = new MultiThread();
+        MultiThread t2 = new MultiThread();
 
         t1.start();
         t2.start();

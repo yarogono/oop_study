@@ -1,5 +1,5 @@
-public class blockStackFrame {
-    // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 50 ~ 55p
+// 스프링 입문을 위한 자바 객체 지향의 원리와 이해 50 ~ 55p
+public class BlockStackFrame {
     public static void main(String[] args) {
         int i = 10;
         int k = 20;

@@ -1,9 +1,9 @@
 
 // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 64 ~ 69p
-public class globalVariable {
+public class GlobalVariable {
     // share 변수는 T 메모리 스태틱 영역에 변수 공간이 할당된다.
 
-    // globalVariable 클래스가 T 메모리 스태틱 영역에 배치될 때
+    // GlobalVariable 클래스가 T 메모리 스태틱 영역에 배치될 때
     // 그 안에 share 변수가 클래스의 멤버로 공간을 만들어 저장된다.
 
     static int share;

@@ -1,4 +1,4 @@
-public class methodStackFrame {
+public class MethodStackFrame {
     // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 58 ~ 64p
     public static void main(String[] args) {
         int k = 5;
