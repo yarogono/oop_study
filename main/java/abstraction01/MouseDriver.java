@@ -1,4 +1,4 @@
-package abstract01;
+package abstraction01;
 
 
 // 모든 클래스들(Mouse, MouseDriver)이 T 메모리의 스태틱 영역에 배치된다.

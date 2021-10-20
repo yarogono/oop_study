@@ -5,7 +5,7 @@
 // Mouse | name: String, age: int, countOfTail: int | sing(): void
 
 // 스프링 입문을 위한 자바 객체 지향의 원리와 이해 90 ~ 101p
-package abstract01;
+package abstraction01;
 
 public class Mouse {
     public String name;
