@@ -1,7 +1,7 @@
 package DesignPattern.Adapter;
 
 public class ServiceB {
-    void runServiceB() {
+    void runService() {
         System.out.println("ServiceB");
     }
 }
